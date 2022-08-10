@@ -62,7 +62,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-<img src="img1.JPG" alt="Logo" width="80" height="80">
+<img src="img1.JPG" alt="Logo" width="700" height="800">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 
